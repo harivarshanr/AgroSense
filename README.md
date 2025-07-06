@@ -91,3 +91,10 @@ Visit: [http://localhost:3000](http://localhost:3000)
 2. Click on **Predict**.  
 3. View the crop recommendation output.
 
+
+🖼️ Screenshots
+<img width="1438" alt="Screenshot 2025-07-06 at 2 45 25 PM" src="https://github.com/user-attachments/assets/d67ac4f4-70b3-4062-a58b-1a12c497944f" />
+
+🚜 Previous History
+<img width="1438" alt="Screenshot 2025-07-06 at 2 45 12 PM" src="https://github.com/user-attachments/assets/63dd6e28-04d6-412f-9d2c-7532027cf0db" />
+
